@@ -25,7 +25,12 @@ This creates a new directory "repo" containing the repository files.
 ## Contents
 
 tensorflow_lstm.html
+
 tensorflow_lstm.nb.html
+
 tensorflow_lstm.pdf
+
 tensorflow_lstm.Rmd
+
 usgs_14210000_1984_2024.csv
+
